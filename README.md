@@ -4,6 +4,8 @@ Have you been worried about keeping eye on your stuff when you are not around ? 
 
 [![Collaborizm](https://www.collaborizm.com/GitHubBadge.svg)](https://www.collaborizm.com/project/HyC_rg12g)
 
+Based on the **[Kandy.io](https://www.kandy.io/)** [REST API](https://developer.kandy.io/docs/rest-api) _**[Python wrapper](https://pypi.python.org/pypi/Kandy/)**_.
+
 &nbsp;
 
 ## Library Installation
