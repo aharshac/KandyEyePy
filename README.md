@@ -18,7 +18,7 @@ Execute `git clone https://github.com/aharshac/KandyEyePy.git` in a terminal.
 
 ## Configure
 1. Substitute **`<domain_api_key>, <domain_secret>, <user_id>`** with data from [Kandy Developer Dashboard](https://developer.kandy.io/)
-2. Replace **`<source_phone_number>, <destination_phone_number>``** with personal data.
+2. Replace **`<source_phone_number>, <destination_phone_number>`** with personal data.
 
 &nbsp;
 
