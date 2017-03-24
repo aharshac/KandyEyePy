@@ -1,6 +1,8 @@
 # **Kandy** Python Library Examples
 
-Examples for **[Kandy.io](https://www.kandy.io/)** [REST API](https://developer.kandy.io/docs/rest-api) _**[Python wrapper](https://pypi.python.org/pypi/Kandy/)**_.
+Have you been worried about keeping eye on your stuff when you are not around ? Don't worry Kandy eye is here for you.
+
+[![Collaborizm](https://www.collaborizm.com/GitHubBadge.svg)](https://www.collaborizm.com/project/HyC_rg12g)
 
 &nbsp;
 
@@ -9,14 +11,16 @@ Execute `pip install kandy` in a terminal.
 
 &nbsp;
 
-## Download Examples
+## Download Sources
 Execute `git clone https://github.com/aharshac/KandyPyLibExamples.git` in a terminal.
 
 &nbsp;
 
-## Example Modules
-### SMS.py
-Send SMS to a mobile number via Kandy.
-* Substitute **`<domain_api_key>, <domain_secret>, <user_id>`** with data from [Kandy Developer Dashboard](https://developer.kandy.io/)
-* Replace **`<source_phone_number>, <destination_phone_number>, <message>`** with personal data.
-* Execute `python SMS.py` in a terminal.
+## Configure
+1. Substitute **`<domain_api_key>, <domain_secret>, <user_id>`** with data from [Kandy Developer Dashboard](https://developer.kandy.io/)
+2. Replace **`<source_phone_number>, <destination_phone_number>** with personal data.
+
+&nbsp;
+
+## Run
+Execute `python eye.py` in a terminal.
